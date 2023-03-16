@@ -1,2 +1,3 @@
-# Synesthesia
-Simple launcher android
+# synaesthesia
+
+A new Flutter project.
